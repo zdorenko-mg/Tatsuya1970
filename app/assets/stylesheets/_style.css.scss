@@ -43,6 +43,10 @@ body {
 .bg_img {
     width: 50%;
     margin: 0 auto;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
 }
 .cp {
     height: 50px;
